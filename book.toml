@@ -1,0 +1,6 @@
+[book]
+authors = ["stueve"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Vodenz"
