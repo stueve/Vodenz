@@ -77,7 +77,7 @@
 
 ---
 
-# History (WIP)
+# Gods and History
 
 - [Azel](./history/azel.md)
 - [The Ael and Ael'hi](./history/ael/the-ael.md)
