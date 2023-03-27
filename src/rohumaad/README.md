@@ -28,13 +28,13 @@ __Type__: Elective Monarchy
 - Western Vodenz Mainland
   - Bordered by:
     - North: [Triia and Tarna](../triia-and-tarna/README.md) and The Grey Ocean
-    - East: [The Spine]
+    - East: [The Spine](../geo/the-spine.md)
     - South: The Southern Ocean
     - West: The Sun's Sea
 - Centered around Lake Erva
-- North of Lake Erva is The Orman Forest, the oldest and largest forest in Rohumaad.  
+- North of Lake Erva is The Orman Forest, the oldest and largest forest in Rohumaad.
 - The floodplains south of the lake are where most of the agriculture within Rohumaad is grown, and supplies the two largest cities (Locria and Stonehill)
-- West of the lake are the [Blackveil Mountains]
+- West of the lake are the [Blackveil Mountains](../geo/blackveil-mts.md)
 
 ## Politics
 

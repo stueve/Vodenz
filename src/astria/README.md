@@ -17,3 +17,16 @@ __Major Cities:__
 - Only recently were any outsiders allowed in to study the Southern forest
   - Research has shown it to be older than any forests on the mainland
 - Many scholars speculate that the _Darkwood_ is even more ancient than the Southern forest, but this has yet to be proven with any definitive evidence.
+
+## International Relations
+
+- __Allies__
+  - [Laza](../laza/README.md)
+  - [Syre](../syre/README.md)
+  - __The Dwarven Independant States__
+- __Enemies__
+  - [Kraina](../kraina/README.md)
+- __Neutral__
+  - [Doria](../doria/README.md)
+  - [Rohumaad](../rohumaad/README.md)
+  - [Triia and Tarna](../triia-and-tarna/README.md)

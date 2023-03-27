@@ -69,7 +69,7 @@
   - [Khu'sae](laza/khusae.md)
   - [Lake Orman](rohumaad/lake-orman.md)
   - [Smallpond](doria/smallpond.md)
-- [Other Geographic Features](./geo/_misc.md)
+- [Additional Geographic Features](./geo/_misc.md)
   - [Khu'Pacc](./geo/khupacc.md)
   - [Mount Ae](./geo/mt-ae.md)
   - [Hearthfire Mountain](./geo/hearthfire.md)

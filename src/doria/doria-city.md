@@ -8,9 +8,6 @@ Capital city of the Nation of [Doria](README.md)
 
 - Largest city in Vodenz
   - Total Population is estimated to be approx. 2.4 million residents.
-
-## Government
-
 - Doria operates as an Oligarchy, with 50 chairs in the Parliament that are all controled by members of wealthy families throughout the nation.
 
 ## Industry
