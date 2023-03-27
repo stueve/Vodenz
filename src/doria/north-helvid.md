@@ -8,5 +8,5 @@ Trade and fishing encompass much of their economy, with some crops grown near th
 
 ## Dwarven Presence
 
-- North Helvid has an excellent relationship with Pilin Pimeja and [Crafsal], and has a long-standing tradition of siding with the Dwarven empire on issues, which has caused conflict with [Doria](README.md) in the past.  
+- North Helvid has an excellent relationship with [Pilin Pimeja](../independant/pilin-pimeja.md) and [Crafsal](../independant/crafsal.md), and has a long-standing tradition of siding with the Dwarven empire on issues, which has caused conflict with [Doria](README.md) in the past.  
   - This positive relationship extends to Helvidale, which will send envoys to North Helvid on Parliament Day, where North Helvid and The Dwarven Empire discuss matters.

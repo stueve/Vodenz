@@ -1,0 +1,5 @@
+# The God's War
+
+The battle was between the [Ael](./ael/the-ael.md) and the [Nyl](./nyl/the-nyl.md).
+
+Soon after the creation of the _Ael_ and _Nyl_, they started fighting over who was truely the most powerful of the gods, and thus deserved to rule over their new world.  The Ael, who could level mountains or scorch entire plains, showed off their raw strength while the Nyl began to create larger and more resilient beings that could withstand the Ael's onslaught.  Seeing that this could only end in the destruction of Vodenz, Azel attempted to interdict the continuing escalations, but being unable to and with the earth splintering under the onslaught of power the gods were raining down, used all of their stored power to drain the power from all of the gods, withering them and slowly killing each and every one.  Impossibly weak and without the will to remain after what they had just had to do, Azel fell to earth, their shattered body becoming one with the place they had tried so hard to defend.

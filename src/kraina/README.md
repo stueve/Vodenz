@@ -1,6 +1,6 @@
 # Kraina
 
-Major Cities:
+__Major Cities:__
 
 - [Milwood](milwood.md)
-- [Freyview](freyview.md)
+- [Nasol](nasol.md)

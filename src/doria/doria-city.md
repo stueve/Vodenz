@@ -7,7 +7,7 @@ Capital city of the Nation of [Doria](README.md)
 ## Overview
 
 - Largest city in Vodenz
-  - Total Population 2.4M
+  - Total Population is estimated to be approx. 2.4 million residents.
 
 ## Government
 
