@@ -39,7 +39,7 @@ The central-most nation in [Vodenz](../vodenz.md), with the largest overall land
     - Doria has a long history of working with the college, and they often have similar political interests.
       - As Doria lacks a true mage college and the cities lack a proper army, they often will help each other in conflict
   - [Laza](../laza/README.md)
-    - Because much of laza is forrested, they lack significant landspace to grow grains, which they import heavily from Doria.
+    - Because much of laza is forested, they lack significant landspace to grow grains, which they import heavily from Doria.
     - Doria has been the primary supporter in helping to fight of _The Scourge_, having especially good ties to Khut'ri, who houses a large garrison of Dorian Troops.
 - __Enemies__
   - [Syre](../syre/README.md)
