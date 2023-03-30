@@ -1,5 +1,7 @@
 # Rohumaad
 
+![Rohumaad Map](../img/Rohumaad.jpg)
+
 ## Overview
 
 - Government: Elective Monarchy

@@ -2,7 +2,7 @@
 
 ## Overview
 
-North Helvid is the first major stop after exiting the spine through [Pilin Pimeja], and is the location in Vodenz where the highest percentage of dwarves live.
+North Helvid is the first major stop after exiting the spine through [Pilin Pimeja](../independant/pilin-pimeja.md), and is the location in Vodenz where the highest percentage of dwarves live.
 
 Trade and fishing encompass much of their economy, with some crops grown near the river, as far from the river it is too arid to grow
 

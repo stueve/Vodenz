@@ -1,5 +1,7 @@
 # Astria
 
+![Astria Map](../img/Astria.jpg)
+
 __Major Cities:__
 
 - [Squall's End](squalls-end.md)

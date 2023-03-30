@@ -1,5 +1,7 @@
 # Island of Laza
 
+![Laza Map](../img/Laza.jpg)
+
 ## Overview
 
 - Government: League of States

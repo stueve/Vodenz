@@ -1,1 +1,1 @@
-# North and South Westwood
+# North Westwood

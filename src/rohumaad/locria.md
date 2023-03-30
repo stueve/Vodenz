@@ -1,6 +1,6 @@
 # Locria
 
-Capital city of the nation of of [Rohumaad](README.md).
+Capital city of the nation of [Rohumaad](README.md).
 
 ## Overview
 

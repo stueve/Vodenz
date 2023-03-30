@@ -1,5 +1,7 @@
 # Syre
 
+![Syre Map](../img/Steelspike.jpg)
+
 ## Overview
 
 - Government: Socialist Republic

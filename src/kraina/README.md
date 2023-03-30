@@ -1,11 +1,13 @@
 # Kraina
 
+![Kraina Map](../img/Kraina.jpg)
+
 ## Overview
 
 - Government: Parliament
 - Capital: [Milwood](./milwood.md)
 - Major Cities:
-  - [Nasol](nasol.md)
+  - [nasal](nasal.md)
 - Features a mostly rural and seafaring population.
   - Milwood is a fishing villiage where each parliament member goes to meet once every 3 moons.
   - Though spread out, the different factions within Kraina are fiercly loyal to one another, and to any they deem to be allies
