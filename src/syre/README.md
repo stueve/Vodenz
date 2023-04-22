@@ -1,6 +1,6 @@
 # Syre
 
-![Syre Map](../img/Steelspike.jpg)
+<img src="../img/Steelspike.jpg" width=50% height=50%>
 
 ## Overview
 
