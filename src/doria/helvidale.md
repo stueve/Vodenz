@@ -12,16 +12,3 @@
 ## The City
 
 Helvidale is located on the Eastern shores of Lake Helvid, just within sight of The Spine. The largest city in the Western half of Vodenz, Helvidale is notable for being home to the _University of Helvid_.
-
-<br/>
-
-<details>
-    <summary><b>Campaign Notes</b></summary>
-
-### Campaign Start
-
-The PC's, who are employees of the University of Helvid, have been summoned to the Dean's office to scout out and determine the cause of the recent explosion that came from The Spine across the lake.
-
-</details>
-
-<br/>
