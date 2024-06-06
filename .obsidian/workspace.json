@@ -11,8 +11,12 @@
             "id": "1ff0f0e9ee6358c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/doria/lake-helvid.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/doria/lake-helvid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/doria/lake-helvid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/doria/lake-helvid.md"
+              }
             }
           }
         ]
@@ -139,5 +147,17 @@
     }
   },
   "active": "1ff0f0e9ee6358c3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "src/doria/kosti.md",
+    "src/doria/helvidale.md",
+    "src/doria/hearthfire.md",
+    "src/doria/doria-city.md",
+    "src/doria/lake-helvid.md",
+    "src/astria/squalls-end.md",
+    "src/astria/south-astrian-forest.md",
+    "src/astria/README.md",
+    "src/astria/marnall.md",
+    "src/astria/everfrost.md",
+    "src/astria/darkwood.md"
+  ]
 }
