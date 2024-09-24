@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b87c89ba73ba3679",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ff0f0e9ee6358c3",
+  "active": "b87c89ba73ba3679",
   "lastOpenFiles": [
     "src/doria/kosti.md",
     "src/doria/helvidale.md",

@@ -2,7 +2,6 @@
 
 ## Overview
 
-- Fishing Villiage
-- Population: 470
+A quiet fishing village on the Northern coast of [Lake Erva](lake-erva.md).
 
-A quiet town of around 500 on the Northern coast of [Lake Erva](lake-erva.md), does much of it's trade with Ionia and Stonehill.
+Angrove is most commonly used as a common stopping point for people traveling to the [Orman Forest](orman-forest.md), and as a secondary port for goods exchange between Southern Rohumaad and [Triia and Tarna](../triia-and-tarna/README.md).
